@@ -1,0 +1,8 @@
+Portal Brasileiro de Dados Abertos, Fomento Rural,  [S.I] 19 de Jar. 2022. Disponível em: <https://dados.gov.br/dataset/programa-fomento-rural-execucao-geral>. Acesso em: 20 Set. 2022.
+
+Instituto Brasileiro de Geografia e Estátistica, Códigos dos municipios IBGE, [S.I] [2021?]. Disponível em: <https://www.ibge.gov.br/explica/codigos-dos-municipios.php>. Acesso em: 20 Set. 2022.
+
+Portal da Segurança Alimentar e Nutricional Ministério da Cidadania, Mapa inSAN, [S.I] 30 de mar. 2017. Disponível em: <https://aplicacoes.mds.gov.br/sagirmps/portal-san/artigo.php?link=15>. Acesso em: 20 Set. 2022.
+
+Portal Brasileiro de Dados Abertos, Bolsa Família - MI Social, [S.I] 30 de Nov. 2017. Disponível em: <https://dados.gov.br/dataset/bolsa-familia-misocial>. Acesso em: 20 Set. 2022.
+
